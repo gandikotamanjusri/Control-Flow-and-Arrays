@@ -13,7 +13,7 @@ A Java console-based application to manage student grades using arrays and contr
 
 ## Project Structure
 - src/ → Java source files
-- data/ → Sample input data
+- output/ → Sample input data
 
 ## How to Run
 1. Compile:
